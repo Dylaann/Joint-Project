@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AccelerationScreen.cpp" />
+    <ClCompile Include="Ai.cpp" />
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="background.cpp" />
+    <ClCompile Include="BrakingScreen.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="Car.cpp" />
+    <ClCompile Include="changeProfile.cpp" />
+    <ClCompile Include="CheckBox.cpp" />
+    <ClCompile Include="chooseCar.cpp" />
+    <ClCompile Include="Credits.cpp" />
+    <ClCompile Include="DisplayScreen.cpp" />
+    <ClCompile Include="EnterNameScreen.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="gameOverScreen.cpp" />
+    <ClCompile Include="GarageScreen.cpp" />
+    <ClCompile Include="GUI.cpp" />
+    <ClCompile Include="Help.cpp" />
+    <ClCompile Include="Label.cpp" />
+    <ClCompile Include="levels.cpp" />
+    <ClCompile Include="Liscence.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainMenu.cpp" />
+    <ClCompile Include="Math.cpp" />
+    <ClCompile Include="NightMode.cpp" />
+    <ClCompile Include="OptionsScreen.cpp" />
+    <ClCompile Include="PhysicsBalls.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="playGame.cpp" />
+    <ClCompile Include="RadioButton.cpp" />
+    <ClCompile Include="ResourceManager.cpp" />
+    <ClCompile Include="SaveScreen.cpp" />
+    <ClCompile Include="Slider.cpp" />
+    <ClCompile Include="SoundScreen.cpp" />
+    <ClCompile Include="Specs.cpp" />
+    <ClCompile Include="Splash.cpp" />
+    <ClCompile Include="SpeedScreen.cpp" />
+    <ClCompile Include="TurboScreen.cpp" />
+    <ClCompile Include="Widget.cpp" />
+    <ClCompile Include="XBOX360CONTROLLER.cpp" />
+    <ClCompile Include="LevelLoad.cpp" />
+<<<<<<< HEAD
+=======
+    <ClCompile Include="Cutscene.cpp" />
+>>>>>>> 32c797daf49e9db1913536540631e52b4bd5f281
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AccelerationScreen.h" />
+    <ClInclude Include="Ai.h" />
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="background.h" />
+    <ClInclude Include="BrakingScreen.h" />
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="Car.h" />
+    <ClInclude Include="changeProfile.h" />
+    <ClInclude Include="CheckBox.h" />
+    <ClInclude Include="chooseCar.h" />
+    <ClInclude Include="Credits.h" />
+    <ClInclude Include="DisplayScreen.h" />
+    <ClInclude Include="EnterNameScreen.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="gameOverScreen.h" />
+    <ClInclude Include="GarageScreen.h" />
+    <ClInclude Include="GUI.h" />
+    <ClInclude Include="Help.h" />
+    <ClInclude Include="Label.h" />
+    <ClInclude Include="levels.h" />
+    <ClInclude Include="Liscence.h" />
+    <ClInclude Include="MainMenu.h" />
+    <ClInclude Include="Math.h" />
+    <ClInclude Include="NightMode.h" />
+    <ClInclude Include="OptionsScreen.h" />
+    <ClInclude Include="PhysicsBalls.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="playGame.h" />
+    <ClInclude Include="RadioButton.h" />
+    <ClInclude Include="ResourceManager.h" />
+    <ClInclude Include="SaveScreen.h" />
+    <ClInclude Include="Slider.h" />
+    <ClInclude Include="SoundScreen.h" />
+    <ClInclude Include="Specs.h" />
+    <ClInclude Include="Splash.h" />
+    <ClInclude Include="SpeedScreen.h" />
+    <ClInclude Include="TurboScreen.h" />
+    <ClInclude Include="Widget.h" />
+    <ClInclude Include="XBOX360CONTROLLER.h" />
+    <ClInclude Include="LevelLoad.h" />
+<<<<<<< HEAD
+=======
+    <ClInclude Include="Cutscene.h" />
+>>>>>>> 32c797daf49e9db1913536540631e52b4bd5f281
+  </ItemGroup>
+</Project>
